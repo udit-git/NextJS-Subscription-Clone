@@ -1,7 +1,7 @@
 # Next.js Subscription Payments Starter
 
-The all-in-one starter kit for high-performance SaaS applications 
-[As learned from <a href="https://github.com/cleverprogrammers"> Clever Programmers </a>
+The all-in-one starter kit for high-performance SaaS applications </br>
+[As learned from <a href="https://github.com/cleverprogrammers"> Clever Programmers </a>]
 
 ## Features
 
